@@ -1,7 +1,7 @@
 {
 	"name" : "Print Image Menu", 
 	"description" : "This extension adds 'print' item to context menu of images.", 
-	"version" : "1.0", 
+	"version" : "1.0.0.2", 
 	"manifest_version" : 2, 
 	
 	"background" : {
